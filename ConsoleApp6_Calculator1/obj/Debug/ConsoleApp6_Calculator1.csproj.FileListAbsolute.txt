@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ConsoleApp6_Calculator1\ConsoleApp6_Calculator1\bin\Debug\ConsoleApp6_Calculator1.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp6_Calculator1\ConsoleApp6_Calculator1\bin\Debug\ConsoleApp6_Calculator1.exe
+C:\Users\ASUS\source\repos\ConsoleApp6_Calculator1\ConsoleApp6_Calculator1\bin\Debug\ConsoleApp6_Calculator1.pdb
+C:\Users\ASUS\source\repos\ConsoleApp6_Calculator1\ConsoleApp6_Calculator1\obj\Debug\ConsoleApp6_Calculator1.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp6_Calculator1\ConsoleApp6_Calculator1\obj\Debug\ConsoleApp6_Calculator1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp6_Calculator1\ConsoleApp6_Calculator1\obj\Debug\ConsoleApp6_Calculator1.exe
+C:\Users\ASUS\source\repos\ConsoleApp6_Calculator1\ConsoleApp6_Calculator1\obj\Debug\ConsoleApp6_Calculator1.pdb
